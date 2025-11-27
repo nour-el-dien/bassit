@@ -24,3 +24,13 @@ body{
 
 color: brown !important;
 }
+
+section .imgg {
+  background-image: url("/img/book-composition-with-open-book.jpg");
+  background-size: cover;
+  background-position: center;
+  
+}
+
+
+
