@@ -26,11 +26,13 @@ color: brown !important;
 }
 
 section .imgg {
-  background-image: url("/img/book-composition-with-open-book.jpg");
+  background: linear-gradient(to right, #192c61 0%,#528bc0 100%);
   background-size: cover;
   background-position: center;
-  
+  border: 5px solid #192c61;
+
 }
+
 
 
 
